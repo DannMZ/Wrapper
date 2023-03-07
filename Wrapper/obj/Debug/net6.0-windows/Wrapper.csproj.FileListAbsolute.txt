@@ -1,0 +1,17 @@
+F:\Lab\labs\Wrapper\Wrapper\bin\Debug\net6.0-windows\Wrapper.exe
+F:\Lab\labs\Wrapper\Wrapper\bin\Debug\net6.0-windows\Wrapper.deps.json
+F:\Lab\labs\Wrapper\Wrapper\bin\Debug\net6.0-windows\Wrapper.runtimeconfig.json
+F:\Lab\labs\Wrapper\Wrapper\bin\Debug\net6.0-windows\Wrapper.dll
+F:\Lab\labs\Wrapper\Wrapper\bin\Debug\net6.0-windows\Wrapper.pdb
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.csproj.AssemblyReference.cache
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.Form1.resources
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.csproj.GenerateResource.cache
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.AssemblyInfoInputs.cache
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.AssemblyInfo.cs
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.csproj.CoreCompileInputs.cache
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.dll
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\refint\Wrapper.dll
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.pdb
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\Wrapper.genruntimeconfig.cache
+F:\Lab\labs\Wrapper\Wrapper\obj\Debug\net6.0-windows\ref\Wrapper.dll
